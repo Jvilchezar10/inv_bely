@@ -2,10 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Controllers\Controller;
-use Illuminate\Http\Request;
-
-class PurchasController extends Controller
+class PurchasesDetailController extends Controller
 {
     function __construct()
     {
